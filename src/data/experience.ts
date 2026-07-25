@@ -11,18 +11,18 @@ export interface ExperienceEntry {
 }
 
 export const experience: ExperienceEntry[] = [
-  {
+{
     id: "xeloniq",
-    role: "Lead Full-Stack Developer",
+    role: "Full-Stack Developer (Freelance)",
     company: "Xeloniq",
     period: "2026 — Present",
-    type: "Leadership",
+    type: "Freelance",
     summary:
-      "Xeloniq is a digital solutions company we launched to help businesses — shops, cafés, restaurants — get online with domains, hosting, business email, cloud solutions, and custom web development. I lead the full-stack development team.",
+      "Xeloniq is a digital solutions company helping businesses — shops, cafés, restaurants — get online with domains, hosting, business email, cloud solutions, and custom web development. I work as a full-stack developer on their small team, building and deploying client-facing web applications.",
     highlights: [
-      "Leading the full-stack development team from architecture to deployment",
-      "Own the technical direction for client-facing web development services",
-      "Shipped the company's own site, hosting portal, and service infrastructure",
+      "Design, build, and deploy full-stack web applications end-to-end for client projects",
+      "Work directly with clients to scope features and make architecture decisions",
+      "Contributed to the company's own site, hosting portal, and service infrastructure",
     ],
     stack: ["React", "Node.js", "Express", "MongoDB", "Cloud Hosting"],
     link: "https://www.xeloniq.com",

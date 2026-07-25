@@ -4,7 +4,7 @@ export const aboutIntro = {
  paragraphs: [
      "I'm a final-year B.S. Computer Science & Data Analytics student at IIT Patna. I learn by building — CampusHub and a JWT/RBAC-secured health records system are both things I shipped and deployed myself, not tutorials I followed.",
 
-     "I currently lead full-stack development at Xeloniq, a digital solutions company helping small businesses get online with hosting, domains, and custom web development. I'm also part of the 100xDevs community, and I'm most interested in backend problems: designing APIs, structuring databases, figuring out how a system should actually scale. Right now I'm looking for full-stack or backend roles where I can keep building things people use, not just demo."
+     "I currently work as a full-stack developer (freelance) at Xeloniq, a digital solutions company helping small businesses get online with hosting, domains, and custom web development. I'm also part of the 100xDevs community, and I'm most interested in backend problems: designing APIs, structuring databases, figuring out how a system should actually scale. Right now I'm looking for full-stack or backend roles where I can keep building things people use, not just demo."
 ],
 };
 

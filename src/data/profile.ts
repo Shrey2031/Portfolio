@@ -41,7 +41,7 @@ export const terminalCommands = [
 
 export const stats = [
   { label: "CGPA", value: "8.1" },
-  { label: "Grad Year", value: "2026" },
+  { label: "Grad Year", value: "2027" },
   { label: "Projects Shipped", value: "2" },
   { label: "DSA Solved", value: "190+" },
 ];
