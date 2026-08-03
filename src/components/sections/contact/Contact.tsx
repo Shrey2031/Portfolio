@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { motion } from "framer-motion";
-import { FiMail, FiPhone, FiMapPin, FiSend, FiCheck } from "react-icons/fi";
+import { FiMail, FiMapPin, FiSend, FiCheck } from "react-icons/fi";
 import { profile } from "@/data/profile";
 import { SocialLinks } from "@/components/ui/SocialLinks";
 
