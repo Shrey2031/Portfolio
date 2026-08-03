@@ -10,7 +10,6 @@ export const profile = {
   tagline: "I build fast, reliable web apps end to end — React on the front, Node on the back, and everything wired together properly.",
   location: "Patna, Bihar, India",
   email: "shreyakumari44611@gmail.com",
-  phone: "+91 8789989331",
   github: "https://github.com/Shrey2031",
   linkedin: "https://www.linkedin.com/in/shreya-kumari-424684277/",
   resumeUrl: "resume/resume.pdf",
