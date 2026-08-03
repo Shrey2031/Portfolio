@@ -72,13 +72,13 @@ export function Contact() {
               <FiMail size={16} />
               <span className="text-sm">{profile.email}</span>
             </a>
-            <a
+            {/* <a
               href={`tel:${profile.phone.replace(/\s/g, "")}`}
               className="flex items-center gap-3 text-fog-300 hover:text-amber-400 transition-colors"
             >
               <FiPhone size={16} />
               <span className="text-sm">{profile.phone}</span>
-            </a>
+            </a> */}
             <div className="flex items-center gap-3 text-fog-300">
               <FiMapPin size={16} />
               <span className="text-sm">{profile.location}</span>
